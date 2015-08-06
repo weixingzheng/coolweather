@@ -10,6 +10,7 @@ import android.os.SystemClock;
 import android.preference.PreferenceManager;
 import android.support.annotation.Nullable;
 
+import com.first.coolweather.receiver.AutoUpdateReceiver;
 import com.first.coolweather.util.HttpCallbackListener;
 import com.first.coolweather.util.HttpUtil;
 import com.first.coolweather.util.Utility;
